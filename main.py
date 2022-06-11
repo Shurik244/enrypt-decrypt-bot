@@ -1,4 +1,4 @@
-import telebot
+import telebot # pip install telegrambotapi
 
 bot= telebot.TeleBot('')
 
